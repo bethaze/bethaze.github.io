@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bethaze.github.io
+title: Orion's Coffee
+email: belus26@me.com
+author: Beth
+description: m
+paginate: 3
+google_analytics: 
